@@ -1,0 +1,9 @@
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg-A-File\Steg-A-File\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg-A-File\Steg-A-File\obj\Debug\Steg_A_File.Form1.resources
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg-A-File\Steg-A-File\obj\Debug\Steg-A-File.csproj.GenerateResource.Cache
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg-A-File\Steg-A-File\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg-A-File\Steg-A-File\bin\Debug\Steg-A-File.exe
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg-A-File\Steg-A-File\bin\Debug\Steg-A-File.pdb
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg-A-File\Steg-A-File\obj\Debug\Steg_A_File.Properties.Resources.resources
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg-A-File\Steg-A-File\obj\Debug\Steg-A-File.exe
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg-A-File\Steg-A-File\obj\Debug\Steg-A-File.pdb

@@ -1,0 +1,17 @@
+C:\Users\jvjones\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jvjones\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg.Properties.Resources.resources
+C:\Users\jvjones\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg.csproj.GenerateResource.Cache
+C:\Users\jvjones\Documents\Visual Studio 2008\Projects\Steg\Steg\bin\Debug\Steg.exe
+C:\Users\jvjones\Documents\Visual Studio 2008\Projects\Steg\Steg\bin\Debug\Steg.pdb
+C:\Users\jvjones\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg.exe
+C:\Users\jvjones\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg.pdb
+C:\Users\jvjones\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg_Interface.Form1.resources
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg.exe
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg.pdb
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg\Steg\bin\Debug\Steg.exe
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg\Steg\bin\Debug\Steg.pdb
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg.Properties.Resources.resources
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg.csproj.GenerateResource.Cache
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg\Steg\obj\Debug\Steg_A_File.Form1.resources
+C:\Users\erodrig9\Documents\Visual Studio 2008\Projects\Steg\Steg\bin\Debug\ICSharpCode.SharpZipLib.dll
